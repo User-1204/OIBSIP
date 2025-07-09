@@ -36,7 +36,7 @@ BMI = weight (kg) / (height (m) × height (m))
 
 Below is a screenshot of the application interface:
 
-![BMI Calculator Screenshot](https://github.com/user-attachments/assets/15fc62bd-3bf5-4a2f-8282-14e551da9407)
+<img width="592" height="771" alt="Image" src="https://github.com/user-attachments/assets/9c32535e-aa7d-4d24-acfa-2b0086edcd52" />
 
 
 ## Sample Output
