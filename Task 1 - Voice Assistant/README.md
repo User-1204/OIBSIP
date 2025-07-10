@@ -4,7 +4,6 @@
 A modular and voice-driven assistant built with Python, this project integrates speech recognition, real-time APIs, email automation, natural language processing, and scheduling. It emphasizes voice-based interactivity, secure data handling, and extensible design suitable for future enhancements.
 
 ## Theoretical Background
-
 This project integrates multiple core disciplines in computer science:
 
 - **Speech Recognition**: Utilizes Google’s Speech Recognition API to transcribe user voice commands into text.
