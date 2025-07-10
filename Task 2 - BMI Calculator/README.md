@@ -6,7 +6,7 @@ This project is a desktop-based Body Mass Index (BMI) Calculator developed using
 ## Features
 
 - Calculates BMI using user input for weight and height.
-- Categorizes BMI into health ranges: Underweight, Normal weight, Overweight, Obese.
+- Categorizes BMI into health ranges: Underweight, Normal weight, Overweight and Obese.
 - Provides relevant health suggestions based on BMI category.
 - Stores BMI records locally in a JSON file.
 - Displays the five most recent entries for each user.
@@ -36,7 +36,7 @@ BMI = weight (kg) / (height (m) × height (m))
 
 Below is a screenshot of the application interface:
 
-![BMI Calculator Screenshot](https://github.com/user-attachments/assets/15fc62bd-3bf5-4a2f-8282-14e551da9407)
+<img width="592" height="771" alt="Image" src="https://github.com/user-attachments/assets/9c32535e-aa7d-4d24-acfa-2b0086edcd52" />
 
 
 ## Sample Output
