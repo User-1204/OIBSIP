@@ -74,6 +74,7 @@ password-generator/
 
 ## Preview
 
+<img width="514" height="635" alt="Image" src="https://github.com/user-attachments/assets/0147298f-012b-4205-8844-0f5f48501bcb" />
 
 ## Future Enhancements
 
