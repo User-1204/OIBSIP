@@ -97,12 +97,14 @@ The interface will display:
 * Three-day daily temperature range
 
 
+## Preview
+
+<img width="516" height="912" alt="Image" src="https://github.com/user-attachments/assets/2e479e39-2fee-4a08-ba80-430f25cfab04" />
+
+
 ## Design Considerations
 
 * **Clarity and Simplicity**: Intuitive controls and clean layout
 * **Visual Balance**: Gradient backgrounds and icon animations add depth without distraction
 * **Modularity**: Separates data mapping, UI design, and API logic for easier updates
 * **User Feedback**: Clear messages for missing data, connectivity issues, or invalid input
-
-
-## Preview
