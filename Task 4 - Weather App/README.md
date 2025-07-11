@@ -1,5 +1,6 @@
 # Weather-App
-A Python desktop application that delivers live weather updates, hourly and daily forecasts, and automatic location detection, all presented through an intuitive and visually engaging interface. This project demonstrates effective API integration, clean modular code design, and thoughtful user experience elements such as gradient backgrounds and animated weather icons.
+A Python desktop application that delivers live weather updates, hourly and daily forecasts, and automatic location detection, all presented through an intuitive and visually engaging interface. 
+This project demonstrates effective API integration, clean modular code design, and thoughtful user experience elements such as gradient backgrounds and animated weather icons.
 
 
 ## Purpose
